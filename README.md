@@ -1,5 +1,5 @@
 # End-to-End-Aspect-Category-Customer-Sentiment-Analysis-Based-On-Social-Media
-End-to-End-Aspect-Category-Customer-Sentiment-Analysis-Based-On-Social-Media is based on the people's review to make prediction on their review topic, sentiment and it can also extract part-of-speech and dependency tags to make users to understand easily when the review is very long. This project comes up with three part : the first one is that based on LDA model to get the topic; then use VADER SCore for Sentiment Analysis; the last part used spacy to get the dependency tags and  part-of-speech.Then with Flask , a interaction web app can be builded. 
+End-to-End-Aspect-Category-Customer-Sentiment-Analysis-Based-On-Social-Media is based on the people's review to make prediction on their review topic, sentiment and it can also extract part-of-speech and dependency tags to make users to understand easily when the review is very long. This project comes up with three part : the first one is that based on LDA model to get the topic; then use VADER Score for Sentiment Analysis; the last part used spacy to get the dependency tags and  part-of-speech.Then with Flask , a interaction web app can be builded. 
 ## Installation
 1.Clone the repository.  
 
